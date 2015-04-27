@@ -1,0 +1,10 @@
+C:\Users\Aleksandr\Documents\Visual Studio 2013\Projects\PostalCode\PostalCode\bin\Debug\PostalCode.exe.config
+C:\Users\Aleksandr\Documents\Visual Studio 2013\Projects\PostalCode\PostalCode\bin\Debug\PostalCode.exe
+C:\Users\Aleksandr\Documents\Visual Studio 2013\Projects\PostalCode\PostalCode\bin\Debug\PostalCode.pdb
+C:\Users\Aleksandr\Documents\Visual Studio 2013\Projects\PostalCode\PostalCode\obj\Debug\PostalCode.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandr\Documents\Visual Studio 2013\Projects\PostalCode\PostalCode\obj\Debug\PostalCode.Keyboard.resources
+C:\Users\Aleksandr\Documents\Visual Studio 2013\Projects\PostalCode\PostalCode\obj\Debug\PostalCode.PostalCode.resources
+C:\Users\Aleksandr\Documents\Visual Studio 2013\Projects\PostalCode\PostalCode\obj\Debug\PostalCode.Properties.Resources.resources
+C:\Users\Aleksandr\Documents\Visual Studio 2013\Projects\PostalCode\PostalCode\obj\Debug\PostalCode.csproj.GenerateResource.Cache
+C:\Users\Aleksandr\Documents\Visual Studio 2013\Projects\PostalCode\PostalCode\obj\Debug\PostalCode.exe
+C:\Users\Aleksandr\Documents\Visual Studio 2013\Projects\PostalCode\PostalCode\obj\Debug\PostalCode.pdb
